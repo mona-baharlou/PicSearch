@@ -1,4 +1,4 @@
-package com.mona.picsearch.ui.theme
+package com.mona.picsearch.presentation.ui.theme
 
 import androidx.compose.ui.graphics.Color
 
